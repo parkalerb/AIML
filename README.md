@@ -2,32 +2,35 @@
 
 Welcome to my **Artificial Intelligence & Machine Learning (AIML)** repository!
 
-This repository documents my learning journey in Artificial Intelligence and Machine Learning through structured daily practice, hands-on experiments, notes, and real-world projects. My goal is to build a strong foundation in AI/ML concepts while developing practical skills required for solving real-world problems.
+This repository documents my journey of learning Artificial Intelligence and Machine Learning through structured daily practice, hands-on experiments, Jupyter notebooks, and practical projects.
+
+The goal is to move from ML fundamentals to building and understanding real-world Machine Learning solutions.
 
 ---
 
 ## 🎯 Objectives
 
 - Build a strong foundation in Artificial Intelligence and Machine Learning
-- Learn the complete Machine Learning workflow
+- Understand the complete Machine Learning workflow
 - Master essential Python libraries for Data Science
 - Work with real-world datasets
-- Build end-to-end Machine Learning projects
-- Understand model evaluation and optimization
+- Build Machine Learning models
+- Understand model evaluation
+- Develop practical AI/ML problem-solving skills
 - Prepare for AI/ML internships and Software Development roles
 
 ---
 
 ## 📚 Learning Roadmap
 
-### ✅ Sprint 1
+### ✅ Sprint 1 — AI/ML Fundamentals
 
 - Introduction to Artificial Intelligence
 - Introduction to Machine Learning
 - Machine Learning Lifecycle
 - Development Environment Setup
 
-### ✅ Sprint 2
+### ✅ Sprint 2 — NumPy
 
 - NumPy Basics
 - Creating Arrays
@@ -37,10 +40,44 @@ This repository documents my learning journey in Artificial Intelligence and Mac
 - Mathematical Operations
 - Statistics using NumPy
 
+### ✅ Sprint 3 — Pandas
+
+- DataFrame
+- Series
+- Reading Data
+- Dataset Exploration
+- Shape
+- Missing Values
+- `head()`
+- `tail()`
+- `describe()`
+- `info()`
+
+### ✅ Sprint 4 — Data Visualization
+
+- Matplotlib
+- Seaborn Introduction
+- Line Chart
+- Bar Chart
+- Pie Chart
+- Histogram
+- Scatter Plot
+- Correlation Heatmap
+
+### ✅ Sprint 5 — Machine Learning
+
+- Supervised Learning
+- Features and Target
+- Train/Test Split
+- Classification vs Regression
+- Scikit-learn
+- Logistic Regression
+- Model Training
+- Prediction
+- Accuracy
+
 ### 🔜 Upcoming Topics
 
-- Pandas
-- Data Visualization (Matplotlib)
 - Data Preprocessing
 - Feature Engineering
 - Regression
@@ -50,6 +87,7 @@ This repository documents my learning journey in Artificial Intelligence and Mac
 - Deep Learning
 - Natural Language Processing (NLP)
 - Computer Vision
+- Model Deployment
 
 ---
 
@@ -71,75 +109,12 @@ AIML/
 │   └── README.md
 │
 ├── Day_003/
+│   └── pandas_basics.ipynb
+│
+├── Day_004/
+│   └── visualization.ipynb
+│
+├── Day_005/
+│   └── iris_classification.ipynb
 │
 └── ...
-```
-
-Each learning day includes:
-
-- 📘 Concept Notes
-- 💻 Hands-on Practice
-- 📊 Jupyter Notebook
-- 🚀 Mini Exercises
-- 📄 Daily Documentation
-
----
-
-## 🛠️ Technologies & Tools
-
-- Python
-- Jupyter Notebook
-- NumPy
-- Pandas *(Upcoming)*
-- Matplotlib *(Upcoming)*
-- Scikit-learn *(Upcoming)*
-- TensorFlow *(Upcoming)*
-- PyTorch *(Upcoming)*
-- Git & GitHub
-
----
-
-## 📈 Learning Progress
-
-| Sprint | Status |
-|---------|--------|
-| Sprint 1 | ✅ Completed |
-| Sprint 2 | ✅ Completed |
-| Sprint 3 | 🔜 Coming Soon |
-
----
-
-## 💡 Learning Outcomes
-
-Through this repository, I aim to:
-
-- Strengthen AI & ML fundamentals
-- Build practical Machine Learning skills
-- Understand data analysis and model development
-- Develop a portfolio of AI/ML projects
-- Continuously improve through hands-on learning
-
----
-
-## 🚀 Future Improvements
-
-- Work on real-world datasets
-- Build complete Machine Learning projects
-- Participate in Kaggle competitions
-- Explore Deep Learning frameworks
-- Learn Model Deployment using Flask/FastAPI
-- Integrate AI models into web applications
-
----
-
-## 👨‍💻 Author
-
-**Rohan Parkale**
-
-- MCA Student
-- Aspiring Software Developer
-- Passionate about Artificial Intelligence, Machine Learning, and Python
-
----
-
-⭐ *This repository reflects my continuous learning journey in Artificial Intelligence and Machine Learning through consistent practice and real-world implementation.*
