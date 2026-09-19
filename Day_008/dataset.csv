@@ -1,0 +1,31 @@
+Age,MonthlyCharges,Tenure,Contract,Churn
+22,45.5,3,Month-to-month,Yes
+35,65.2,12,One year,No
+28,80.4,6,Month-to-month,Yes
+42,55.8,36,Two year,No
+31,72.1,8,Month-to-month,Yes
+50,48.6,48,Two year,No
+26,90.5,5,Month-to-month,Yes
+39,60.3,24,One year,No
+45,52.7,30,Two year,No
+24,85.9,4,Month-to-month,Yes
+33,68.4,15,One year,No
+29,78.2,7,Month-to-month,Yes
+47,50.1,42,Two year,No
+36,63.7,18,One year,No
+27,88.3,2,Month-to-month,Yes
+41,57.9,28,Two year,No
+30,74.6,9,Month-to-month,Yes
+52,46.8,54,Two year,No
+38,66.5,20,One year,No
+25,92.1,3,Month-to-month,Yes
+44,54.3,32,Two year,No
+32,70.8,11,Month-to-month,Yes
+49,49.5,45,Two year,No
+37,61.9,22,One year,No
+23,87.6,5,Month-to-month,Yes
+40,59.4,26,One year,No
+34,76.3,10,Month-to-month,Yes
+46,51.7,39,Two year,No
+29,82.5,6,Month-to-month,Yes
+43,56.2,34,Two year,No
