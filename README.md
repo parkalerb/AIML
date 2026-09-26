@@ -2,9 +2,9 @@
 
 Welcome to my **Artificial Intelligence & Machine Learning (AIML)** repository!
 
-This repository documents my journey of learning Artificial Intelligence and Machine Learning through structured daily practice, hands-on experiments, Jupyter notebooks, and practical projects.
+This repository documents my structured journey of learning AI and Machine Learning through hands-on experiments, Jupyter notebooks, practical datasets, model building, and continuous practice.
 
-The goal is to move from ML fundamentals to building and understanding real-world Machine Learning solutions.
+The goal is to progress from ML fundamentals to building, evaluating, and eventually deploying real-world Machine Learning solutions.
 
 ---
 
@@ -12,109 +12,203 @@ The goal is to move from ML fundamentals to building and understanding real-worl
 
 - Build a strong foundation in Artificial Intelligence and Machine Learning
 - Understand the complete Machine Learning workflow
-- Master essential Python libraries for Data Science
+- Strengthen Python skills for Data Science and ML
 - Work with real-world datasets
+- Perform data analysis and visualization
 - Build Machine Learning models
-- Understand model evaluation
-- Develop practical AI/ML problem-solving skills
+- Understand model evaluation techniques
+- Practice practical AI/ML problem-solving
+- Progress toward advanced Machine Learning and AI concepts
 - Prepare for AI/ML internships and Software Development roles
 
 ---
 
-## 📚 Learning Roadmap
+# 📚 Learning Roadmap
 
-### ✅ Sprint 1 — AI/ML Fundamentals
+## ✅ Sprint 1 — AI/ML Fundamentals
+
+Topics covered:
 
 - Introduction to Artificial Intelligence
 - Introduction to Machine Learning
+- AI vs ML
 - Machine Learning Lifecycle
+- Types of Machine Learning
 - Development Environment Setup
 
-### ✅ Sprint 2 — NumPy
+---
+
+## ✅ Sprint 2 — NumPy
+
+Topics covered:
 
 - NumPy Basics
 - Creating Arrays
 - Array Operations
-- Indexing & Slicing
+- Indexing and Slicing
 - Reshaping Arrays
 - Mathematical Operations
-- Statistics using NumPy
+- Statistical Operations
+- Working with Numerical Data
 
-### ✅ Sprint 3 — Pandas
+---
 
-- DataFrame
-- Series
+## ✅ Sprint 3 — Pandas
+
+Topics covered:
+
+- Pandas Series
+- Pandas DataFrame
 - Reading Data
 - Dataset Exploration
-- Shape
+- Dataset Shape
+- Data Types
 - Missing Values
 - `head()`
 - `tail()`
 - `describe()`
 - `info()`
+- Basic Data Analysis
 
-### ✅ Sprint 4 — Data Visualization
+---
+
+## ✅ Sprint 4 — Data Visualization
+
+Topics covered:
 
 - Matplotlib
-- Seaborn Introduction
-- Line Chart
-- Bar Chart
-- Pie Chart
-- Histogram
-- Scatter Plot
-- Correlation Heatmap
+- Seaborn
+- Line Charts
+- Histograms
+- Scatter Plots
+- Correlation Heatmaps
+- Data Visualization
+- Understanding Data through Visuals
 
-### ✅ Sprint 5 — Machine Learning
+### Practical Work
+
+Built visualizations using the Iris dataset.
+
+---
+
+## ✅ Sprint 5 — Machine Learning Fundamentals
+
+Topics covered:
 
 - Supervised Learning
 - Features and Target
+- Training Data
+- Testing Data
 - Train/Test Split
-- Classification vs Regression
+- Classification
+- Regression
 - Scikit-learn
 - Logistic Regression
 - Model Training
 - Prediction
 - Accuracy
 
-### 🔜 Upcoming Topics
+### Practical Project
 
-- Data Preprocessing
-- Feature Engineering
-- Regression
-- Classification
-- Clustering
-- Model Evaluation
-- Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
-- Model Deployment
+**Iris Classification**
+
+Built a classification model using:
+
+- Iris Dataset
+- Logistic Regression
+- Train/Test Split
+- Model Prediction
+- Accuracy Evaluation
 
 ---
 
-## 📂 Repository Structure
+## ✅ Sprint 6 — Model Evaluation
+
+Topics covered:
+
+- Model Evaluation
+- Accuracy
+- Confusion Matrix
+- Precision
+- Recall
+- F1 Score
+- Classification Report
+- Understanding Model Performance
+
+### Practical Work
+
+Evaluated the Iris Logistic Regression model using multiple classification metrics.
+
+---
+
+## ✅ Sprint 7 — Regression
+
+Topics covered:
+
+- Regression Concepts
+- Linear Regression
+- Feature Selection
+- Train/Test Split
+- Model Training
+- Prediction
+- Mean Squared Error (MSE)
+- R² Score
+- Actual vs Predicted Visualization
+
+### Practical Project
+
+**House Price Prediction**
+
+Built a Linear Regression model using the California Housing dataset.
+
+---
+
+## ✅ Sprint 8 — Classification with Logistic Regression
+
+Topics covered:
+
+- Binary Classification
+- Logistic Regression
+- Sigmoid Concept
+- Feature Selection
+- Categorical Data Encoding
+- Train/Test Split
+- Model Training
+- Predictions
+- Prediction Probabilities
+- Confusion Matrix
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Classification Report
+
+### Practical Project
+
+**Customer Churn Prediction**
+
+Built a Logistic Regression classification model using customer information such as:
+
+- Age
+- Monthly Charges
+- Tenure
+- Contract Type
+
+The complete workflow includes:
 
 ```text
-AIML/
-│
-├── README.md
-│
-├── Day_001/
-│   ├── intro_to_ml.md
-│   ├── ml_lifecycle.md
-│   └── hello_ml.ipynb
-│
-├── Day_002/
-│   ├── numpy_basics.ipynb
-│   ├── numpy_notes.md
-│   └── README.md
-│
-├── Day_003/
-│   └── pandas_basics.ipynb
-│
-├── Day_004/
-│   └── visualization.ipynb
-│
-├── Day_005/
-│   └── iris_classification.ipynb
-│
-└── ...
+Dataset
+   ↓
+Data Understanding
+   ↓
+Preprocessing
+   ↓
+Feature Selection
+   ↓
+Train/Test Split
+   ↓
+Model Training
+   ↓
+Prediction
+   ↓
+Model Evaluation
